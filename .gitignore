@@ -1,0 +1,10 @@
+# Dipendenze
+node_modules/
+# File sensibili
+.env
+*.key
+# File temporanei e log
+*.log
+*.swp
+*~
+.DS_Store
